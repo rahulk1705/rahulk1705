@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul Koli
 - 👀 I’m interested in ... Front-End Development
 - 🌱 I’m currently learning ... React Native
-- 💞️ I’m looking to collaborate on ... sveltjs
+- 💞️ I’m looking to collaborate on ... ReactJS
 - 📫 How to reach me ... kolirahul2405@gmail.com
 
 <!---
